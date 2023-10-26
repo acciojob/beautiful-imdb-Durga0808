@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+
+.moviePic{
+	height:500px;
+	width:auto;
+	opacity:95%;
+}
+.movieDetail{
+	position:center;
+	text-align:center;
+	font-size:40px;
+	width:auto;
+}
